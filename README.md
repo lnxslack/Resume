@@ -1,5 +1,3 @@
-# Curriculo
-
 Qualificações: 
 •	Ampla experiência no suporte a clientes; 
 •	Trabalho em equipe, características de liderança; 
