@@ -1,0 +1,35 @@
+Wanderley Germano
+wanderley.germano@gmail.com
+LinkedIn: https://www.linkedin.com/in/wanderley-germano/
+GitHub: https://github.com/lnxslack
+
+Resumo:
+Profissional de TI com ampla experiência em suporte ao cliente, administração de servidores (Linux/Windows),
+redes e desenvolvimento de aplicações para automação de relatórios (VBA, SAPscript, Python). Experiência com
+SAP R/3 (MM, PM, PS, LT), BI (Power BI, Spotfire) e manutenção de bancos de dados (Oracle, PostgreSQL).
+Disponível para viagens.
+
+Qualificações e Conhecimentos:
+- Suporte técnico e atendimento a clientes em operações críticas.
+- Administração de servidores Linux e Windows; configuração de serviços de rede.
+- Desenvolvimento de ferramentas de automação e relatórios (VBA, SAPscript, Python).
+- SAP R/3 (MM, PM, PS, LT).
+- Power BI, Spotfire; Oracle, PostgreSQL, Access.
+- C/C++, Delphi, Visual Basic; montagem e manutenção de micros.
+
+Experiência (resumida):
+Sonda ProckWorks Nov/2022 - Atual
+Oceânica — Fev/2022 – Jun/2022
+Baker Hughes do Brasil — Jan/2020 – Fev/2022
+SondaProcWork — Jul/2018 – Dez/2019
+Bureau Veritas — Fev/2017 – Jun/2018
+Baker Hughes — Drilling Services (Analista de Suporte) — 2015 – Abr/2016
+Drill Bits Systems — Assistente Administrativo — 2011 – 2014
+Petrobras — Apoio Logístico e Técnico — 2003 – 2009
+
+Formação:
+MBA Finanças e Análise de Ações — Estácio de Sá (10/2020 – 09/2021)
+Bacharelado em Sistemas de Informação — Faculdade Miguel Ângelo da Silva Santos (Concluído 2009)
+Técnico em Mecatrônica — EFONAPE (2014)
+Técnico em Eletrônica — EFONAPE (2013)
+Linux System Administration — UNIPI / 4Linux
